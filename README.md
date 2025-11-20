@@ -1,2 +1,2 @@
 # majorproject
-this is final year major project
+this my final year major project based on AI
